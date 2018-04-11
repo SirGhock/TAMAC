@@ -1,2 +1,15 @@
 # TAMAC
 Jogo desenvolvido em C puro para uma GameJam na Universidade Tecnológica do Paraná
+
+  JOGO DESENVOLVIDO NA GAME JAM 2017
+
+  TEMA: EDUCACAO FINANCEIRA
+
+  HORARIO DE INICIO: 14H DO DIA 16/09/17
+
+  HORARIO DE FIM: 12H DO DIA 17/09/17
+
+INTEGRANTES:
+##### JOAO FERNANDO
+##### LEONARDO NORIO
+##### MAIKON ALEXANDER
